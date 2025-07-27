@@ -22,11 +22,18 @@ FYNDR is a fully private and fast file search engine. It is a single window app 
 
 ---
 
-## 🛠️ How to Install 
+## 🛠️ How to Install
 
-To install the app on Windows you can purchase prebuilt executables from the [official website](https://abc.com).
+Download and install the app from the [official website](https://abc.com).
 
-If you want to contribute, raise an [issue](https://github.com/p-stackforge/FYNDR-support/issues/new/choose)
+---
+
+## 💬 Feedback & Support
+
+- [Request a Feature or Report a Bug](https://github.com/p-stackforge/FYNDR-support/issues/new/choose)
+- [Start a Discussion](https://github.com/p-stackforge/FYNDR-support/discussions)
+
+---
 
 ## 🖼️ Screenshots
 
